@@ -62,7 +62,7 @@ Template and repeatable process for data understanding and preparation
    ## Categorical Data
       1. Dummy variables - this can improve the fit, but at a cost.  It reduces the degress of freedom by 1 every time you convert
       a variable to a set of dummy variables.  This reduces the generality of the model which can be more important than accuracy.
-      2. numeric representation - can be used if there is a numeric increase in the impact across the range (kinda like monotonicity)
+      2. numeric representation - can be used if there is a numeric increase in the impact across the range
    ## Feature Engineering
       - PCA
       - Kernel Density
